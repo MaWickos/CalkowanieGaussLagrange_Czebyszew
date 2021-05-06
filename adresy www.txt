@@ -1,0 +1,5 @@
+Tablice rozk³adu wag i wêz³ów w metodzie Gaussa Lagrange'a
+https://pomax.github.io/bezierinfo/legendre-gauss.html?fbclid=IwAR2M1n6UZetCfcVnkN1mdH9R_mJX3avA8wCdQrTvMRXhbKqdR-Gxe9DQano
+
+WWW
+http://pathfinder.scar.utoronto.ca/~dyer/csca57/book_P/node44.html
